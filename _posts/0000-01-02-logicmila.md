@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to bam's second slide!" 
 ---
-Your test
+bambam!
 Use the left arrow to go back!
